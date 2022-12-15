@@ -1,0 +1,2 @@
+Add in your crontab
+0 0 * * * /path/to/your/script/script.sh
